@@ -64,7 +64,7 @@ Dhaka shows the highest potential market (7.7M coffee drinkers), but moderate co
 This dashboard simulates a real-world stakeholder report. Each chart is interactive—clicking a city or segment filters all views—allowing executives and analysts to explore performance drivers and take action with one click.Below is the overview page from the Tableau dashboard and more examples are included throughout thr report. The entire interactive dashboard can be downloaded here: https://public.tableau.com/shared/YR7ZRB4J5?:display_count=n&:origin=viz_share_link
 
 
-![Tableau Dashboard Overview](docs/Gloria%20Jean's%20Coffees%20EDA%20Tableau.png)
+![Tableau Dashboard Overview](docs/Gloria%20Jean's%20EDA%20Tableau.png)
 
 ---
 
