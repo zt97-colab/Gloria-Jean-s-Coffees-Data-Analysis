@@ -96,13 +96,6 @@ The dataset is composed of **4 relational tables**, joined using foreign keys:
 
 ---
 
-## 🔧 Technical Resources
-
-* [SQL Scripts Folder](./sql) — Contains all 20+ queries used for deep-dive analysis
-* Optional: [ERD PNG](./images/ERD.png) for quick understanding of data structure
-
----
-
 ## 📝 Final Notes
 
 This project demonstrates strong **SQL-based analysis**, real-world **business insight**, and a stakeholder-ready format. It addresses core responsibilities of a data analyst:
@@ -111,3 +104,5 @@ This project demonstrates strong **SQL-based analysis**, real-world **business i
 * Analyzing structured data
 * Communicating findings clearly
 * Recommending data-driven actions
+
+---
