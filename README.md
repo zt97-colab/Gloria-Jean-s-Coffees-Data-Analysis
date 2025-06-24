@@ -77,6 +77,30 @@ The dataset is composed of **4 relational tables**, joined using foreign keys:
 
 ## 🔄 Recommendations
 
+
+City 1: Dhaka  
+    1. Largest estimated coffee-drinking population at approximately 7.7 million – a strong indicator of market potential.  
+    2. High total number of customers (68), reflecting solid customer reach and brand visibility.  
+    3. Rent per customer is reasonably efficient at 330, supporting scalable operations.  
+    4. Shows consistent revenue month-to-month with moderate volatility – stable growth market.  
+    5. Recommend deeper engagement through loyalty rewards and targeted digital ads to capitalize on existing market.
+
+City 2: Faridpur  
+    1. Lowest average rent per customer, indicating excellent cost-to-revenue efficiency.  
+    2. Generates the highest total revenue, suggesting strong customer spending patterns.  
+    3. High average revenue per customer – customers spend more per visit.  
+    4. Highest revenue per rent unit, showing exceptional operational efficiency.  
+    5. Suggest sustaining product diversity and introducing premium offerings to increase average order value.
+
+City 3: Sylhet  
+    1. Highest total customers (69), confirming strong penetration and awareness.  
+    2. Very low rent per customer at 156, enabling profitable expansion.  
+    3. Average sales per customer is strong (~11.6k), showing valuable customer base.  
+    4. Opportunity to strengthen customer retention via feedback loops and weekday promotions.  
+    5. Suggest increasing digital presence and promotional campaigns, especially on low-traffic days.
+
+
+
 | Area                 | Recommendation                                                                  |
 | -------------------- | ------------------------------------------------------------------------------- |
 | **Marketing**        | Launch targeted churn reactivation emails and loyalty rewards in Dhaka & Sylhet |
