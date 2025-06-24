@@ -42,14 +42,29 @@ Analyzed over 10,000 sales records encompassing multiple cities, customers, and 
 
 ## 📈 Executive Summary
 
-**Key Takeaways:**
+This dashboard provides a business-focused view of customer behavior, product profitability, and market performance across key cities in Bangladesh. Drawing from over 10,000 sales records and demographic data, it delivers insights that help prioritize investments, improve operational efficiency, and reduce churn risk.
 
-* **Faridpur** generated the highest total revenue and had the **best rent-to-revenue efficiency**, making it a high ROI city.
-* **Dhaka** has the **largest potential market** (\~7.7M coffee drinkers), strong brand presence, and stable revenue, making it an ideal city for digital marketing and loyalty campaigns.
-* **Sylhet** shows the **highest number of customers** with good repeat purchasing behavior and low rent per customer.
-* **Top-selling products** are also the most profitable. However, some underperforming products have low rating-to-sale ratios and need bundling or reevaluation.
-* **17% of customers have not purchased in over 90 days** — churn campaigns are necessary.
-* **Sunday is the highest order volume day**, suggesting potential for Sunday-focused promotions.
+📌 Key Takeaways:
+
+**Revenue & Cost Efficiency**
+Faridpur generates the highest revenue and has the strongest rent-to-revenue ratio, making it the most operationally efficient city.
+
+**Customer Retention Risk**
+~17% of customers are flagged as “At Risk” due to 90+ days of inactivity, signaling the need for targeted retention campaigns.
+
+**Product Profitability**
+Cappuccino and Latte lead in both sales volume and profit, while lower-rated items like Iced Mocha need bundling or promotional rework.
+
+**Market Penetration**
+Dhaka shows the highest potential market (7.7M coffee drinkers), but moderate conversion. Sylhet, on the other hand, has high actual customer count and low rent per customer, indicating successful engagement.
+
+**Forecasting Insights**
+3-month revenue forecasts per city show steady growth in Dhaka and Sylhet, and a peak in Faridpur, suggesting strong near-term ROI potential.
+
+This dashboard simulates a real-world stakeholder report. Each chart is interactive—clicking a city or segment filters all views—allowing executives and analysts to explore performance drivers and take action with one click.Below is the overview page from the Tableau dashboard and more examples are included throughout thr report. The entire interactive dashboard can be downloaded here: https://public.tableau.com/shared/YR7ZRB4J5?:display_count=n&:origin=viz_share_link
+
+
+![Tableau Dashboard Overview](docs/Gloria%20Jean's%20Coffees%20EDA%20Tableau.png)
 
 ---
 
