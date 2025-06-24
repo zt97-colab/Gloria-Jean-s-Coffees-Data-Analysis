@@ -120,5 +120,3 @@ This project demonstrates strong **SQL-based analysis**, real-world **business i
 * Analyzing structured data
 * Communicating findings clearly
 * Recommending data-driven actions
-
-Designed to look and feel like a real deliverable created by an **in-house data analyst**.
