@@ -25,10 +25,18 @@ The dataset is composed of **4 relational tables**, joined using foreign keys:
 
 ### Data Types Covered:
 
-* **Demographic**: Population, city rank, customer-city relationship
-* **Transaction**: Total sales, sale dates, product IDs
-* **Product**: Name, pricing
-* **Engagement**: Rating, churn behavior, repeat behavior
+Demographic: Population, city rank, customer-city relationship
+
+Transaction: Total sales, sale dates, product IDs
+
+Product: Name, pricing
+
+Engagement: Ratings, churn behavior, repeat purchase behavior
+
+### Data Scale:
+Analyzed over 10,000 sales records encompassing multiple cities, customers, and products.
+
+
 
 ---
 
@@ -46,6 +54,32 @@ The dataset is composed of **4 relational tables**, joined using foreign keys:
 ---
 
 ## 🕰️ Insights Deep Dive
+
+### Advanced SQL Techniques:
+
+* Implemented linear regression using REGR_SLOPE and REGR_INTERCEPT functions for 3-month revenue forecasting per city.
+
+* Developed Recency-Frequency-Monetary (RFM) segmentation using NTILE window functions to score and classify customers into five behavioral groups: Champion, Loyal, Potential, At Risk, and Others.
+
+* Leveraged window functions, conditional aggregation (FILTER, CASE), and joins to compute detailed business KPIs and segment counts.
+
+### Forecasting:
+
+* Built a 3-month city-level revenue projection model based on historical monthly sales trends to aid leadership in budgeting and resource allocation.
+
+### Customer Churn Detection:
+
+* Defined churn as customers with no purchases in the last 90+ days. 
+
+* Quantified churn risk by city to prioritize retention marketing campaigns.
+
+### Rent-to-Revenue Efficiency:
+
+* Calculated metrics such as rent per customer and revenue per rent unit to identify operationally efficient cities and inform cost optimization.
+
+### Product Profitability:
+
+* Estimated product profitability by assuming 60% of price as cost, identifying top-performing and underperforming products for targeted product strategy
 
 ### Sales & Revenue:
 
