@@ -21,16 +21,7 @@ The dataset is composed of **4 relational tables**, joined using foreign keys:
 
 ### Entity Relationship Diagram (ERD):
 
-```
-CITY         CUSTOMERS         SALES          PRODUCTS
------        ---------         -----          --------
-city_id      customer_id       sale_id        product_id
-city_name    city_id           customer_id    product_name
-population   name              product_id     price
-estimated_rent                sale_date       
-city_rank                     total
-                                rating
-```
+![Entity Relationship Diagram](docs/Data%20Structure.png)
 
 ### Data Types Covered:
 
